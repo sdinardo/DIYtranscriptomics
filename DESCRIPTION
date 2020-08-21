@@ -40,3 +40,5 @@ Imports:
     matrixStats,
     msigdbr,
     plotly
+URL: https://github.com/sdinardo/DIYtranscriptomics
+BugReports: https://github.com/sdinardo/DIYtranscriptomics/issues
