@@ -1,5 +1,5 @@
 Package: DIYtranscriptomics
-Title: Reproducies analaysis carried out in 2020 course (One Line, Title Case)
+Title: Reproduces analaysis carried out in 2020 course (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
